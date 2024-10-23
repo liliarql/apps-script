@@ -5,6 +5,6 @@ This tutorial demonstrates how to use spreadsheet data to efficiently send email
 
 ## How your Spreedsheet should look like?
 
-![Google Sheet - Sending Emails](IMAGE.png 'Sending Emails stores the emails in your Google Sheet')
+![Google Sheet - Sending Emails](image.png 'Sending Emails stores the emails in your Google Sheet')
 
 You can add as many emails as you wish (or have)
